@@ -1,0 +1,19 @@
+{
+    "name": "ffish/test",
+    "description": "ffish test",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "ffish",
+            "email": "623247130@qq.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "autoload": {
+        "psr-4": {
+            "Ffish\\Test\\": "src/"
+        }
+    },
+    "require": {}
+}
